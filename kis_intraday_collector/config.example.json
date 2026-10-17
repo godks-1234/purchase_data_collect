@@ -1,0 +1,11 @@
+{
+  "appkey": "여기에_한국투자증권_실전_App_Key",
+  "appsecret": "여기에_한국투자증권_실전_App_Secret",
+  "base_url": "https://openapi.koreainvestment.com:9443",
+  "poll_seconds": 300,
+  "watchlist": [
+    {"code": "068270", "name": "셀트리온"},
+    {"code": "005380", "name": "현대차"},
+    {"code": "196170", "name": "알테오젠"}
+  ]
+}
