@@ -1,0 +1,17 @@
+{
+  "appkey": "키움증권에서_발급받은_App_Key",
+  "secretkey": "키움증권에서_발급받은_Secret_Key",
+  "base_url": "https://api.kiwoom.com",
+  "poll_seconds": 300,
+  "market_type": "000",
+  "amount_quantity_type": "1",
+  "trade_type": "0",
+  "minute_interval": "1",
+  "adjusted_price_type": "1",
+  "include_base_date": true,
+  "watchlist": [
+    {"code": "068270", "name": "셀트리온"},
+    {"code": "005380", "name": "현대차"},
+    {"code": "196170", "name": "알테오젠"}
+  ]
+}
